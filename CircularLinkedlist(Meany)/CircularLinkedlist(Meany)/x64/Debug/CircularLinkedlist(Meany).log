@@ -1,0 +1,4 @@
+﻿  CircularLinkedlist(Meany).cpp
+C:\Users\Admin\Desktop\Data Structures\CircularLinkedlist(Meany)\CircularLinkedlist(Meany)\CircularLinkedlist(Meany).cpp(72,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Data Structures\CircularLinkedlist(Meany)\CircularLinkedlist(Meany)\CircularLinkedlist(Meany).cpp(135,2): error C2059: syntax error: '}'
+C:\Users\Admin\Desktop\Data Structures\CircularLinkedlist(Meany)\CircularLinkedlist(Meany)\CircularLinkedlist(Meany).cpp(135,2): error C2143: syntax error: missing ';' before '}'

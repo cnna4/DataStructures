@@ -1,0 +1,3 @@
+﻿  FibonacciSequence.cpp
+C:\Users\Admin\Desktop\Data Structures\FibonacciSequence\FibonacciSequence\FibonacciSequence.cpp(60,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  FibonacciSequence.vcxproj -> C:\Users\Admin\Desktop\Data Structures\FibonacciSequence\x64\Debug\FibonacciSequence.exe

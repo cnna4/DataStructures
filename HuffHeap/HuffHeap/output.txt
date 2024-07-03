@@ -1,0 +1,91 @@
+Tally Array:
+ASCII 10: 28 occurrences
+ASCII 32: 102 occurrences
+ASCII 33: 8 occurrences
+ASCII 39: 2 occurrences
+ASCII 44: 7 occurrences
+ASCII 45: 1 occurrences
+ASCII 46: 6 occurrences
+ASCII 59: 1 occurrences
+ASCII 63: 3 occurrences
+ASCII 67: 1 occurrences
+ASCII 68: 1 occurrences
+ASCII 72: 1 occurrences
+ASCII 73: 12 occurrences
+ASCII 77: 2 occurrences
+ASCII 79: 2 occurrences
+ASCII 97: 28 occurrences
+ASCII 98: 8 occurrences
+ASCII 99: 10 occurrences
+ASCII 100: 13 occurrences
+ASCII 101: 53 occurrences
+ASCII 102: 7 occurrences
+ASCII 103: 8 occurrences
+ASCII 104: 21 occurrences
+ASCII 105: 20 occurrences
+ASCII 106: 1 occurrences
+ASCII 107: 6 occurrences
+ASCII 108: 13 occurrences
+ASCII 109: 12 occurrences
+ASCII 110: 24 occurrences
+ASCII 111: 30 occurrences
+ASCII 112: 5 occurrences
+ASCII 113: 1 occurrences
+ASCII 114: 25 occurrences
+ASCII 115: 17 occurrences
+ASCII 116: 35 occurrences
+ASCII 117: 16 occurrences
+ASCII 118: 3 occurrences
+ASCII 119: 19 occurrences
+ASCII 120: 1 occurrences
+ASCII 121: 7 occurrences
+ASCII 122: 1 occurrences
+ASCII 126: 1 occurrences
+Total characters in the file: 562
+
+Huffman Tree:
+
+Character Codes:
+
+: 0100
+ : 111
+!: 100010
+': 10001111
+,: 000110
+-: 100011010
+.: 1100101
+;: 100011011
+?: 11000110
+C: 100000100
+D: 100000111
+H: 100011000
+I: 110011
+M: 10000000
+O: 10000001
+a: 0101
+b: 011101
+c: 110000
+d: 110111
+e: 001
+f: 000111
+g: 100001
+h: 10111
+i: 10110
+j: 100011001
+k: 1100100
+l: 00010
+m: 110110
+n: 11010
+o: 0110
+p: 1100010
+q: 100011100
+r: 0000
+s: 10100
+t: 1001
+u: 01111
+v: 11000111
+w: 10101
+x: 100011101
+y: 011100
+z: 100000101
+~: 100000110
